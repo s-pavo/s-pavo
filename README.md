@@ -1,4 +1,4 @@
-# Hi 👋 I'm Pavithra (Pavo)
+# Hi 👋 I'm Pavithra 
 
 🚀 **Embedded Systems Trainee | Technical Writer | Problem Solver**
 
@@ -76,8 +76,8 @@ Alongside development, I enjoy **technical writing**—turning complex technical
 ---
 
 ## 📫 Connect With Me
-- 📧 **Email:** yourmail@example.com  
-- 🌐 **Portfolio:** your-portfolio-link  
+- 📧 **Email:** spavi2807@gmail.com 
+- 🌐 **Portfolio:** https://s-pavo.github.io/portfolio/ 
 - 🐙 **GitHub:** https://github.com/s-pavo  
 
 ---
