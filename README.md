@@ -63,15 +63,11 @@ Alongside development, I enjoy **technical writing**—turning complex technical
 
 ---
 
-## 🟢 Contribution Activity (The Dots!)
-![Contribution Snake](https://github.com/s-pavo/s-pavo/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ## 🌐 Coding Profiles
-- 💻 **HackerRank:** add-link-here  
-- 🧩 **LeetCode:** add-link-here  
-- ⚡ **HackerEarth:** add-link-here  
+- 💻 **HackerRank:** https://www.hackerrank.com/profile/s_pavo 
+- 🧩 **LeetCode:** https://leetcode.com/u/s_pavo/
+- ⚡ **HackerEarth:** https://www.hackerearth.com/@s_pavo/
 
 ---
 
