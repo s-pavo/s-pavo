@@ -41,33 +41,23 @@ I enjoy building logic-driven programs and clearly documenting technical concept
 
 ---
 
-## 🤖 AI Tools (Used Responsibly)
+## 🤖 AI Tools 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-24292F?style=for-the-badge&logo=githubcopilot&logoColor=white)
-
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=s-pavo&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=s-pavo&theme=tokyonight" />
-</p>
 
 ---
 
 ## 🌐 Coding Profiles
-- 💻 HackerRank: https://www.hackerrank.com/profile/s_pavo  
-- 🧩 LeetCode: https://leetcode.com/u/s_pavo/  
-- ⚡ HackerEarth: https://www.hackerearth.com/@s_pavo/  
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/s_pavo)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/s_pavo/)
+[![HackerEarth](https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@s_pavo/)
 
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: **spavi2807@gmail.com**  
-- 🌐 Portfolio: https://s-pavo.github.io/portfolio/  
-- 🐙 GitHub: https://github.com/s-pavo  
+- 📧 **Email:** spavi2807@gmail.com  
+- 🌐 **Portfolio:** https://s-pavo.github.io/portfolio/  
+- 🐙 **GitHub:** https://github.com/s-pavo  
 
 ---
 
