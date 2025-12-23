@@ -5,12 +5,17 @@
 </p>
 
 <p align="center">
-🚀 <b>Embedded Systems Trainee | Technical Writer</b>
+ <b>Embedded Systems Trainee | Technical Writer</b>
+</p>
+<p align="center">
+  <a href="https://s-pavo.github.io/portfolio/resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=googledocs&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 🌱 About Me
+##  About Me
 I’m a passionate **Embedded Systems trainee** with a strong interest in **low-level programming and embedded system fundamentals**.  
 I enjoy building logic-driven programs and clearly documenting technical concepts.
 
