@@ -63,9 +63,7 @@ I enjoy building logic-driven programs and clearly documenting technical concept
 ---
 
 ## 📫 Connect With Me
-- 📧 **Email:** spavi2807@gmail.com  
-- 🌐 **Portfolio:** https://s-pavo.github.io/portfolio/  
-- 🐙 **GitHub:** https://github.com/s-pavo  
+- 📧 **Email:** spavi2807@gmail.com    
 
 ---
 
