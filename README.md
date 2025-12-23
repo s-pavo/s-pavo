@@ -42,8 +42,6 @@ I enjoy building logic-driven programs and clearly documenting technical concept
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42" height="42"/>
 </p>
 
-🔹 Command-line usage • Debugging • Embedded workflows
-
 ---
 
 ## 🤖 AI Tools 
