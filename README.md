@@ -12,6 +12,11 @@
     <img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge" />
   </a>
 </p>
+<p align="center">
+  <a href="https://s-pavo.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-38B2AC?style=for-the-badge&logo=githubpages&logoColor=white" />
+  </a>
+</p>
 
 ---
 
