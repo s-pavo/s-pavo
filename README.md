@@ -14,7 +14,7 @@
 </p>
 <p align="center">
   <a href="https://s-pavo.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-38B2AC?style=for-the-badge&logo=githubpages&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-38B2AC?style=for-the-badge" />
   </a>
 </p>
 
