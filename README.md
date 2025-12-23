@@ -9,7 +9,7 @@
 </p>
 <p align="center">
   <a href="https://s-pavo.github.io/portfolio/resume.pdf">
-    <img src="https://img.shields.io/badge/Resume-blue?" />
+    <img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge" />
   </a>
 </p>
 
